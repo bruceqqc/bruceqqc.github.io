@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Projects/Interships/Works
+title: Projects
 permalink: /projects/
 order: 3
 ---
 
-Still working on this page...
