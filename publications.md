@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_no_title
 permalink: /publications/
 order: 2
 ---
