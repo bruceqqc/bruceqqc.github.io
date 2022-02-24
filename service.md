@@ -5,7 +5,7 @@ permalink: /service/
 order: 4
 ---
 
-## Employment
+# Employment
 * Since 04/2020: Graduate Teaching Assistant (GTA) @ **Imperial College London**
 	- Electroncis 1 (DESE40006): lab assistance, oral assessor
 	- Sensing and IoT (DESE97002): lab assistance
@@ -14,7 +14,7 @@ order: 4
 	-  Complemented Hisi Coulomb code documentation
 	-  Tested file authority security vulnerability
 
-## Competitions
+# Competitions
 * 12/2020: **Microsoft** Imagine Cup (Yangtze Delta Region)
 	- Designed AIoT smart agriculture system
 	- Achieved 3rd prize
@@ -27,6 +27,6 @@ order: 4
 	- Designed intelligent logistics system
 	- Achieved 2nd prize
 
-## Consultancy Services
+# Consultancy Services
 * 12/2021 - 01/2022: Imperial consulting project (ICON-P012962)  
 	- Designed intelligent watering system
