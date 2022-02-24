@@ -1,6 +1,5 @@
 ---
-layout: page
-title:   
+layout: page_no_title
 permalink: /service/
 order: 4
 ---
