@@ -26,6 +26,11 @@ order: 4
 	- Designed intelligent logistics system
 	- Achieved 2nd prize
 
+# Summer School
+* 07/2022: [CSCS-USI Summer University held by ETH Zurich, NVIDIA, USI and UNIL](https://www.cscs.ch/events/upcoming-events/event-detail/summer-university-2022-on-effective-high-performance-computing-and-data-analytics/)
+	- Course: GPU programming, deep Learning on HPC platforms ...
+	- Certificate: 9.5/10 on final exam
+
 # Consultancy Services
 * 12/2021 - 01/2022: Imperial consulting project (ICON-P012962)  
 	- Designed intelligent watering system
