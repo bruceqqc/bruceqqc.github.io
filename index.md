@@ -15,3 +15,9 @@ Please visit his [blog website](https://bluesquinn777.github.io/) for more knowl
 ### Scholarships/Awards
 * 2021 - Graduation: CSC Scholarship
 * 2017 & 2018: £1,500 for academic excellence in University of Birmingham
+
+### Academic Background
+* 2021 - 2025: PhD in Dyson School @ Imperial College London, UK
+* 2019 – 2020: MSc in Applied Computational Science and Engineering @ Imperial College London, UK
+* 2017 - 2019: BEng in Electronic and Electrical System Engineering @ University of Birmingham, UK
+* 2015 - 2017: BEng in Electrical and Electronic Engineering @ Xi'an Jiaotong-Liverpool University, China
