@@ -27,8 +27,10 @@ order: 4
 	- Achieved 2nd prize
 
 # Summer School
+* 09/2022: [Sargent Centre Summer School on Data-Driven Optimisation and PSE Research held by ICL and UCL](https://www.imperial.ac.uk/events/148180/sargent-centre-summer-school-and-pse-research-day/)
+	- Course: Optimization under uncertainty, Interplay between optimization and reinforcement learning, ...
 * 07/2022: [CSCS-USI Summer University held by ETH Zurich, NVIDIA, USI and UNIL](https://www.cscs.ch/events/upcoming-events/event-detail/summer-university-2022-on-effective-high-performance-computing-and-data-analytics/)
-	- Course: GPU programming, deep Learning on HPC platforms ...
+	- Course: GPU programming, deep Learning on HPC platforms, ...
 	- Certificate: 9.5/10 on final exam
 
 # Consultancy Services
