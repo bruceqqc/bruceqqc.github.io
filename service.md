@@ -4,26 +4,24 @@ permalink: /service/
 order: 4
 ---
 
-# Employment
-* Since 04/2020: Graduate Teaching Assistant (GTA) @ **Imperial College London**
-	- Electroncis 1 (DESE40006): lab assistance, oral assessor
+# Teaching Services
+* Since 04/2020: Graduate Teaching Assistant (GTA) at **Imperial College London**
+	- Electronics 1 (DESE40006): lab assistance, oral examiner 
 	- Sensing and IoT (DESE97002): lab assistance
-
-* 07/2018 - 09/2018: Software Engineer @ **Shanghai Huawei Technology Co.** 
-	-  Complemented Hisi Coulomb code documentation
-	-  Tested file authority security vulnerability
+ 	- Computing 1 (DESE40007): marking
+  	- Communication (ELEC50002): lab assistance
 
 # Competitions
 * 12/2020: **Microsoft** Imagine Cup (Yangtze Delta Region)
 	- Designed AIoT smart agriculture system
 	- Achieved 3rd prize
 	
-* 05/2020: **Kaggle** (by **Imperial College London**) The Identification Game competition
+* 05/2020: **Kaggle** (by **Imperial College London**) [The Identification Game](https://www.imperial.ac.uk/news/197975/microsoft-rewards-acse-students-winning-machine/) competition
 	- Image classification problem consisting of Natural Images
-	- Achieved 2rd place
+	- Achieved 2nd place
 
-* 07/2018: **Bosch** IoT Hackthon  
-	- Designed intelligent logistics system
+* 07/2018: **Bosch** [IoT Hackthon](https://www.xjtlu.edu.cn/en/news/2018/09/students-secure-spot-in-bosch-hackathon-final)  
+	- Designed an intelligent logistics system
 	- Achieved 2nd prize
 
 # Summer School
