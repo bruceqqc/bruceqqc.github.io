@@ -4,18 +4,15 @@ permalink: /publications/
 order: 2
 ---
 
-All publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=5V9Bd6sAAAAJ&hl=en&oi=ao).
+Please check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=5V9Bd6sAAAAJ) for all publications :)
 
-# 2022
-**Q. Qian**, J. O'Keeffe, Y. Wang and D. E. Boyle, "Practical Mission Planning for Optimized UAV-Sensor Wireless Recharging", 2022, arXiv preprint arXiv:2203.04595.
+# Selected Publications
 
-* || [Paper Link](https://arxiv.org/abs/2203.04595) || 
-
----
-
-# 2021
-**Q. Qian**, A. Y. S. Pandiyan and D. E. Boyle, "Optimal Recharge Scheduler for Drone-to-Sensor Wireless Power Transfer," in IEEE Access, vol. 9, pp. 59301-59312, 2021, doi: 10.1109/ACCESS.2021.3073076. 
-
-* || [Paper Link](https://ieeexplore.ieee.org/document/9402261) || [Github Repository](https://github.com/sysal-bruce-publication/offline-path-planning-for-vrp) ||
+[Adaptive Probabilistic Planning for the Uncertain and Dynamic Orienteering Problem](https://ieeexplore-ieee-org.iclibezp1.cc.ic.ac.uk/abstract/document/10824836)\
+**Qian, Qiuchen**, Yanran Wang, and David Boyle. IEEE **Internet of Things Journal** (**2025**).
+\
+\
+[On Solving Close Enough Orienteering Problems with Overlapped Neighborhoods](https://www.sciencedirect.com/science/article/pii/S0377221724003916)\
+**Qian, Qiuchen**, Yanran Wang, and David Boyle. Elsevier **European Journal of Operational Research** (**2024**).
 
 --- 
